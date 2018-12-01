@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450151437389",
+    "firebase_url": "https://singhpracticalexam2.firebaseio.com",
+    "project_id": "singhpracticalexam2",
+    "storage_bucket": "singhpracticalexam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450151437389:android:1a167683fafa8cb2",
+        "android_client_info": {
+          "package_name": "hans.singh.com.singh_practicalexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450151437389-q62hhq5ctef1c8v467dd9r7huuifrg76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hans.singh.com.singh_practicalexam2",
+            "certificate_hash": "b29abf27219f966405195d67111ef4c8e4a596f8"
+          }
+        },
+        {
+          "client_id": "450151437389-f5kgjpd43r8mnem7egg4ed3kb6ts8nj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABLAqtNvqC_hzEiy-KvqUklpgzCb5uWbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450151437389-f5kgjpd43r8mnem7egg4ed3kb6ts8nj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
